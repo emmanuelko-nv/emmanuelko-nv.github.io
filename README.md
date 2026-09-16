@@ -1,1 +1,1 @@
-Init
+initialize github.io
